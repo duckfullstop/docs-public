@@ -12,9 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-GB",
     baseUrl: "kb.duck.moe",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -23,9 +21,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        title: "Comfortaa",
+        header: "Noto Sans",
+        body: "Source Sans 3",
+        code: "Inconsolata",
       },
       colors: {
         lightMode: {
@@ -37,7 +36,7 @@ const config: QuartzConfig = {
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#1ceeeeee",
         },
         darkMode: {
           light: "#161618",
@@ -48,7 +47,7 @@ const config: QuartzConfig = {
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          textHighlight: "#1ceeeeee",
         },
       },
     },
