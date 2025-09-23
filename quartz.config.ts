@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "knowledgebase.duck.",
+    pageTitle: "kb.duck.",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
