@@ -1,8 +1,6 @@
 ---
-{"publish":true,"created":"2023-08-22T20:13:11.000+01:00","modified":"2025-09-23T21:23:14.436+01:00","cssclasses":""}
+{"publish":true,"created":"2023-08-22T20:13:11.000+01:00","modified":"2025-09-23T21:35:17.195+01:00","tags":["recipe","recipe/advanced"],"cssclasses":""}
 ---
-
-#recipe #recipe/advanced
 
 Serves two — if you want to feed more people, you need more pans
 

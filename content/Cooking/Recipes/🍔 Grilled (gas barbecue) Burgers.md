@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-04-23T18:50:29.000+01:00","modified":"2025-09-23T21:23:16.208+01:00","tags":["recipe"],"cssclasses":""}
+{"publish":true,"created":"2024-04-23T18:50:29.000+01:00","modified":"2025-09-23T21:35:28.399+01:00","tags":["recipe","recipe/basic","recipe/basic/beginners"],"cssclasses":""}
 ---
 
 *This recipe has been built up over the years from a few Youtube videos.*

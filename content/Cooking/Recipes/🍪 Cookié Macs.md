@@ -1,8 +1,6 @@
 ---
-{"publish":true,"created":"2023-08-22T20:16:11.000+01:00","modified":"2025-09-23T21:23:09.366+01:00","cssclasses":""}
+{"publish":true,"created":"2023-08-22T20:16:11.000+01:00","modified":"2025-09-23T21:34:58.199+01:00","tags":["recipe","recipe/basic"],"cssclasses":""}
 ---
-
-#recipe #recipe/basic 
 
 Cookie recipe from Caffé Macs at 🍎.
 

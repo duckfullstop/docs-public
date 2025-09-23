@@ -1,8 +1,6 @@
 ---
-{"publish":true,"created":"2023-08-30T00:01:00.000+01:00","modified":"2025-09-23T21:23:12.581+01:00","cssclasses":""}
+{"publish":true,"created":"2023-08-30T00:01:00.000+01:00","modified":"2025-09-23T21:35:11.547+01:00","tags":["recipe","recipe/intermediate"],"cssclasses":""}
 ---
-
-#recipe #recipe/intermediate
 
 > [!danger]
 > Deep frying is extremely dangerous - please take appropriate steps to make sure you're safe, and if you're not comfortable, stop and let someone else make it for you!

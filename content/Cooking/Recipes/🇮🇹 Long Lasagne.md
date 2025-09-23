@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-06-22T23:08:57.000+01:00","modified":"2025-09-23T21:23:18.007+01:00","tags":["recipe"],"cssclasses":""}
+{"publish":true,"created":"2024-06-22T23:08:57.000+01:00","modified":"2025-09-23T21:35:36.826+01:00","tags":["recipe","recipe/basic"],"cssclasses":""}
 ---
 
 _This Lasagne recipe takes quite some time to prepare (nearly 8 hours!), but most of the time is spent allowing the flavours to meld together, so it's not all cooking. Best prepared the day before, then cooked just before you're ready to eat!_

@@ -1,8 +1,6 @@
 ---
-{"publish":true,"created":"2023-08-22T20:10:55.000+01:00","modified":"2025-09-23T21:23:06.214+01:00","cssclasses":""}
+{"publish":true,"created":"2023-08-22T20:10:55.000+01:00","modified":"2025-09-23T21:34:41.154+01:00","tags":["recipe","recipe/basic"],"cssclasses":""}
 ---
-
-#recipe #recipe/basic
 
 Ingredients:
 
