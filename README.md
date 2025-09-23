@@ -1,4 +1,4 @@
-# knowledgebase.duck.
+# infoduck.
 
 This repository holds a [Quartz](https://quartz.jzhao.xyz) instantiation for my public facing documentation.
 
