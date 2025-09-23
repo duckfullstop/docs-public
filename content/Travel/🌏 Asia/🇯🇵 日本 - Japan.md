@@ -1,10 +1,8 @@
 ---
-{"publish":true,"created":"2023-11-28T18:47:06.000+00:00","modified":"2025-09-23T20:47:20.393+01:00","cssclasses":""}
+{"publish":true,"created":"2023-11-28T18:47:06.000+00:00","modified":"2025-09-23T20:51:59.125+01:00","cssclasses":""}
 ---
 
-	**Last updated: Q2 2023**
-
-## 💸 Money, and the spending thereof
+# 💸 Money, and the spending thereof
 * Transit
 	* Just use Suica on iOS
 	* Topup via Monzo / Apple Pay for fee-free
@@ -27,13 +25,13 @@
 	* You’ll need to show your passport and get the receipt stapled into it, but you’ll get consumption tax taken off your bill
 	* Receipts must be shown at outbound customs otherwise immigration won’t let you out (yes that’s a thing there)
 
-## 📞 Telecommunications
+# 📞 Telecommunications
 * eSIM:
 	* https://cellulardata.ubigi.com/mobile-devices/get-esim/ looks like the frontrunner
 		* NTT DoCoMo, 5G (hell, it’s *owned* by NTT)
 		* 3GB £7, 10GB £13, 50GB £60
 
-## 🚨 Emergency Preparedness
+# 🚨 Emergency Preparedness
 * Remember, Japan does occasionally decide to have a bit of a wobbly one
 * All fingers crossed you won’t get caught up in a major one, but it’s sensible to be prepared in case you are
 * The general rule of thumb is that anything below a Magnitude 4 is barely noticeable
@@ -50,7 +48,7 @@
 * In the *extremely* unlikely event that one really kicks off, move into the middle of the room, and take cover under anything sturdy - protecting your head is the main thing.
 	* Otherwise, do as everyone else does, including moving inland if necessary
 
-## 🚄 Transit
+# 🚄 Transit
 * It’s Japan ffs
 * Seriously though:
 	* Narita Airport connections:
@@ -85,7 +83,7 @@
 		* **unless you have a kink for getting crushed to death** after waiting 20 minutes in the queue
 		* you know all those videos on youtube of people getting pushed into trains by station staff? yeah, those were on the Yamanote or the Osaka Loop Line (OLL). just delay your journey a bit, please, it's not fun.
 
-## 📲 Apps n’ Stuff
+# 📲 Apps n’ Stuff
 * Transit
 	* [Hyperdia](https://www.hyperdia.com/en/) - Rail routing engine by Hitachi, literally the gold standard - usage includes free time travel back to the internet of the early 2000s
 	* https://apps.apple.com/app/id686373726 - Seems to be a decent option on iOS, has optional ads
@@ -93,7 +91,7 @@
 	* 🤖 Google Maps - Routing can be very nonsensical at times, try to avoid
 	* Citymapper - Avoid, routing in Tokyo only understands limited Tokyo Metro routes
 
-## 🙇  Pleasantries & Customs
+# 🙇  Pleasantries & Customs
 * **The important thing to remember: foreigners get a lot more slack on all of this stuff!**
 * The general rule if in doubt is to pick the polite / respectful option and you’ll be fine!
 * In professional contexts, **ALWAYS have business cards ready to go**

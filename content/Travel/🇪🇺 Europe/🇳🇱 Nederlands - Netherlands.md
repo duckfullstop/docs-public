@@ -1,8 +1,8 @@
 ---
-{"publish":true,"created":"2023-09-26T17:05:33.000+01:00","modified":"2025-09-23T20:47:16.569+01:00","cssclasses":""}
+{"publish":true,"created":"2023-09-26T17:05:33.000+01:00","modified":"2025-09-23T20:52:38.036+01:00","cssclasses":""}
 ---
 
-## Travel
+# Travel
 The national rail operator is Nederlandse Spoorwegen (_NS_), although some rail and metro services are operated by private companies such as _GVB_ and _R-Net_.
 
 The good news is that there is an integrated payment system, called _OV Chipkaart / OV Pay_. If you're just visiting for a short while, then _OV Pay_ is the way to go, and just uses normal credit and debit cards / mobile payments.
@@ -13,7 +13,7 @@ If you're staying longer, or plan on taking multiple longer journeys, it might b
 * Personal: Must be purchased in advance, either with a form from a ticket office or online for a €7 deposit. Online delivery only to Dutch, Belgian, or German addresses. Needs a portrait photo for ID.
 
 The Personal chipkaart is probably the one you want, but you're going to need to find a friend to get it delivered to. However, if you can figure that one out, you can then sign up for _NS Flex_, which unlocks **a lot** of options.
-### NS Flex
+## NS Flex
 _Flex_ is a postpay product that can be attached to any **personal** Chipkaart. With it active, you get access to the following:
 
 * Monthly postpayment of all fares from your bank account
@@ -38,7 +38,7 @@ Once that's done, and you're registered on _Mijn NS_, you should see new, exciti
 > [!warning]
 > Please be warned that while NS can attach any IBAN to their billing system, it sometimes explodes horrifically when they try to actually bill you later on, **especially with UK accounts**. If this happens, you'll get an email from them telling you to pay up, along with their IBAN and a reference number so you can settle the invoice manually.
 
-#### Season Tickets
+### Season Tickets
 Season tickets come in varying flavours, ranging from a 20% discount only at weekends, to unlimited national travel. They are all paid monthly, but **require a chipkaart with NS Flex active**.
 
 You can find a full list here: https://www.ns.nl/nsflex/webshop
@@ -57,7 +57,7 @@ Ticket inspectors can tell which Chipkaarts have the discount enabled, so don't 
 
 The combined travel discount **cannot be used with OV Pay.**  Use an e-Ticket or a single use Chipkaart.
 
-#### OV Fiets
+### OV Fiets
 OV Fiets is a bike rental service provided by NS. It's available at all major stations, along with an increasing number of smaller ones. _It requires Flex_.
 
 Rental costs €4.85 a day, and you can rent up to 2 bikes per Chipkaart. Rental ends when you return the bike to the station.
