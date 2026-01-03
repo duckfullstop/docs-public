@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-10-20T18:24:10.702+01:00","modified":"2025-10-20T20:14:50.579+01:00","published":"2025-10-20T20:14:50.579+01:00","cssclasses":""}
+{"publish":true,"created":"2025-10-20T19:24:10.702+02:00","modified":"2025-10-27T12:45:20.833+01:00","published":"2025-10-27T12:45:20.833+01:00","cssclasses":""}
 ---
 
 1. Disclaimer
@@ -19,7 +19,7 @@
 	1. My service is provided in an effort to fix, upgrade, repair, or otherwise improve the system(s) for which you have submitted.
 	2. At no point will your system ever be intentionally harmed; the goal is always as above.
 	3. In the case of accidental damage to your system, or data loss caused by already existing problems with your system (including but not limited to viruses, poorly configured software, or hardware problems and failures), you agree to hold me and anyone else involved in providing my services harmless from damages resulting from such outcomes.
-	4. **It is your responsibility to back up your data.** I am not responsible for any data loss.
+	4. Again, **it is your responsibility to back up your data.** I am not responsible for any data loss.
 5. Support & Warranty / Guarantee
 	1. Free support will be provided for the problem originally mentioned and agreed before I began the service. For any new problems outside of this scope, I must charge the standard rates - this will be agreed with you as such.
 	2. All services and repairs are guaranteed for a period of thirty (30) days from the completion date (the date on which I complete the work, not necessarily the date I hand over to you).
