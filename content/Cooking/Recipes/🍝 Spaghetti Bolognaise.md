@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-08-22T20:11:25.000+01:00","modified":"2025-09-23T21:35:05.643+01:00","tags":["recipe","recipe/basic","recipe/basic/beginners"],"cssclasses":""}
+{"publish":true,"created":"2023-08-22T20:11:25.000+01:00","modified":"2025-09-23T21:35:05.643+01:00","published":"2025-09-23T21:35:05.643+01:00","tags":["recipe","recipe/basic","recipe/basic/beginners"],"cssclasses":""}
 ---
 
 *This recipe was supplied by Kat, who prepared it for me on countless occasions. Thanks, dork.*

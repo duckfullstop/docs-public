@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-09-26T17:05:33.000+01:00","modified":"2025-09-23T20:52:38.036+01:00","cssclasses":""}
+{"publish":true,"created":"2023-09-26T17:05:33.000+01:00","modified":"2025-09-23T20:52:38.036+01:00","published":"2025-09-23T20:52:38.036+01:00","cssclasses":""}
 ---
 
 # Travel

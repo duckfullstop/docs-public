@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-25T21:38:47.084+01:00","modified":"2025-09-23T21:22:23.210+01:00","cssclasses":""}
+{"publish":true,"created":"2025-08-25T21:38:47.084+01:00","modified":"2025-09-23T21:22:23.210+01:00","published":"2025-09-23T21:22:23.210+01:00","cssclasses":""}
 ---
 
 The hider gets a maximum of **10 minutes** preparation time after the previous hider is found. They can choose to start early if it's advantageous to them; the clock starts when they leave or after 10 minutes, whichever comes first.

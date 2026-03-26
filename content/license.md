@@ -1,5 +1,5 @@
 ---
-{"publish":true,"aliases":"MIT license.txt license","title":"License","created":"2025-09-23T20:56:23.357+01:00","modified":"2025-09-23T22:18:04.760+01:00","cssclasses":""}
+{"publish":true,"aliases":"MIT license.txt license","title":"License","created":"2025-09-23T20:56:23.357+01:00","modified":"2025-09-23T22:18:04.760+01:00","published":"2025-09-23T22:18:04.760+01:00","cssclasses":""}
 ---
 
 MIT License

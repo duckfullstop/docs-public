@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-20T23:10:20.076+01:00","modified":"2025-09-23T20:59:09.086+01:00","cssclasses":""}
+{"publish":true,"created":"2025-08-20T23:10:20.076+01:00","modified":"2025-09-23T20:59:09.086+01:00","published":"2025-09-23T20:59:09.086+01:00","cssclasses":""}
 ---
 
 ## Intention

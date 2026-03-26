@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2024-06-22T23:07:45.000+01:00","modified":"2025-09-23T21:34:31.729+01:00","tags":["recipe","recipe/advanced"],"cssclasses":""}
+{"publish":true,"created":"2024-06-22T23:07:45.000+01:00","modified":"2025-09-23T21:34:31.729+01:00","published":"2025-09-23T21:34:31.729+01:00","tags":["recipe","recipe/advanced"],"cssclasses":""}
 ---
 
 *Fed up with Orange Chicken? Behold, this one might float your boat even more.*

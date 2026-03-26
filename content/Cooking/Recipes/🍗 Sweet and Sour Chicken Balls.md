@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-08-30T00:01:00.000+01:00","modified":"2025-09-23T21:35:11.547+01:00","tags":["recipe","recipe/intermediate"],"cssclasses":""}
+{"publish":true,"created":"2023-08-30T00:01:00.000+01:00","modified":"2025-09-23T21:35:11.547+01:00","published":"2025-09-23T21:35:11.547+01:00","tags":["recipe","recipe/intermediate"],"cssclasses":""}
 ---
 
 > [!danger]

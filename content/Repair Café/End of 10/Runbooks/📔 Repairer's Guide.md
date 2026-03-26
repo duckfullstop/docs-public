@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-20T16:14:24.669+01:00","modified":"2025-09-23T20:59:05.233+01:00","cssclasses":""}
+{"publish":true,"created":"2025-08-20T16:14:24.669+01:00","modified":"2025-09-23T20:59:05.233+01:00","published":"2025-09-23T20:59:05.233+01:00","cssclasses":""}
 ---
 
 This guide is intended as a support tool for helping you guide your customer through the End of 10 journey.

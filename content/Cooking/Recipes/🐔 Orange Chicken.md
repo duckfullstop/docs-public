@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2023-08-29T23:41:21.000+01:00","modified":"2025-09-23T21:42:41.410+01:00","tags":["recipe","recipe/advanced"],"cssclasses":""}
+{"publish":true,"created":"2023-08-29T23:41:21.000+01:00","modified":"2025-09-23T21:42:41.410+01:00","published":"2025-09-23T21:42:41.410+01:00","tags":["recipe","recipe/advanced"],"cssclasses":""}
 ---
 
 *A truly flagship recipe based on the American chain Panda Express's menu item of the same name. You really won't regret this, but it does require a lot of work.*

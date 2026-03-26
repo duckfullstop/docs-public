@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-23T20:54:15.140+01:00","modified":"2025-09-23T21:20:35.983+01:00","cssclasses":""}
+{"publish":true,"created":"2025-09-23T20:54:15.140+01:00","modified":"2025-09-23T21:20:35.983+01:00","published":"2025-09-23T21:20:35.983+01:00","cssclasses":""}
 ---
 
 # About this Directory
